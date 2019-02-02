@@ -142,3 +142,5 @@ plt.grid(True)
   Tex表达式是有两个dollar符号环绕起来的,比如的Tex表达式如下
 
 >plt.title(r'$\sigma_i=15$')
+
+参考链接：https://blog.csdn.net/hemuxiao/article/details/78491143
